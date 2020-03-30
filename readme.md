@@ -1,5 +1,5 @@
 
-## This is a django project built using django and django-rest framwork.
+## This is a project built using django and django-rest framwork.
 ### You can add the users using APIs also.
 ### To install all the dependencies type command: 
     - pip install requirements.txt
