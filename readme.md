@@ -8,5 +8,3 @@
 ### The urls for the respective APIs for signup and login are:
     - api/users/register
     - api/users/login
-### You can check in the postman or directly in the browser.
-### Rest it is a normal website where you can register and login from the front-end also and view your profile.
